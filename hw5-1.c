@@ -2,7 +2,7 @@
 int main()
 {
 float x,y,a;
- scanf("%f",&x)；
+ scanf("%f",&x);
   	x=(x*9/5)+32;
-  	printf("%.1ｆ",x);
+  	printf("%.1f",x);
   }
